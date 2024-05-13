@@ -1,8 +1,13 @@
 👋 Hello! I'm Paul 👨‍💻
+
 🌟 Enthusiastic about UI/UX design and web development!
+
 🎓 Currently honing my skills in HTML, CSS, and JavaScript through a web development course.
+
 🚀 Pursuing a career in UI/UX design; aiming for an entry-level role starting July 2024.
+
 💡 Passionate about creating intuitive and delightful user experiences.
+
 🌐 Let's connect and collaborate on exciting projects!
 <!--
 **paulturner5/paulturner5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
